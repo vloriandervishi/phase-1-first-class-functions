@@ -1,6 +1,6 @@
-// function receivesAFunction(spyFunction) {
-//   spyFunction();
-// }
+function receivesAFunction(spyFunction) {
+  spyFunction();
+}
 //first class functioin
 /**
  * Returns a named function that logs a greeting message to the console.
